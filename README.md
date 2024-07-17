@@ -1,4 +1,4 @@
-# Hi there, I'm Misha Yumi Luo! 👋
+# Hi there, I'm Yumi! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
