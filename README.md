@@ -1,4 +1,4 @@
-# Hi there, I'm Yumi(保志裕海)
+# Hi there, I'm Yumi
 
 ![Banner Image](your_banner_image_url_here)
 
