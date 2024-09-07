@@ -1,5 +1,4 @@
-# Hi there, I'm Yumi
-
+# Hi there
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 
