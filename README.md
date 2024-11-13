@@ -2,7 +2,7 @@
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 
-I'm a Japanese developer from Okinawa, passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a Japanese developer from Okinawa, passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I like to learn new skills as well as dip into new areas.
 
 - 🌱 Currently learning: **[new technologies or skills you're currently learning]**
 - 🔭 Working on: **[current projects or side-projects]**
