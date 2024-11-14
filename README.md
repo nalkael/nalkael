@@ -1,4 +1,3 @@
-# Hi there
 ![Banner Image](https://avatars.githubusercontent.com/u/154265772?v=4)
 
 ## About Me 
