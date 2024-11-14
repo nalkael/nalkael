@@ -1,5 +1,3 @@
-![Banner Image](https://avatars.githubusercontent.com/u/154265772?v=4)
-
 ## About Me 
 I'm a Japanese developer from Okinawa, passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I like to learn new skills as well as dip into new areas.
 
