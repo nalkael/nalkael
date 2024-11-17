@@ -1,5 +1,5 @@
 ## About Me 
-I'm a Japanese developer from Okinawa, passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I like to learn new skills as well as dip into new areas.
+I'm passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I like to learn new skills as well as dip into new areas.
 
 - Currently learning: **[new technologies or skills you're currently learning]**
 - Working on: **[current projects or side-projects]**
