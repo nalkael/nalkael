@@ -29,7 +29,7 @@ I'm passionate **Software Developer** with experience in **Java, Python, C/C++, 
 
 ## Featured Projects 
 
-### [Project 1 Title](project_1_link)
+### [Multi-Core Parallel Routing Algorithm for FPGAs](project_1_link)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
