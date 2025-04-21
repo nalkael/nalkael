@@ -29,23 +29,23 @@ I'm passionate **Software Developer** with experience in **Java, Python, C/C++, 
 
 ## Featured Projects 
 
-### [Multi-Core Parallel Routing Algorithm for FPGAs](project_1_link)
+### [Project 1: Object Detection of Urban Infrastructures](project_1_link)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Project 1 Screenshot](project1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
-### [Object Detection of Urban Infrastructures](project_2_link)
+### [Project 2: CampusLink Social Network Platform](https://campuslink.com.cn/)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
-### [CampusLink Social Network Platform](https://campuslink.com.cn/)
+### [Project 3: Multi-Core Parallel Routing Algorithm for FPGAs](project_2_link)
 
-![Project 3 Screenshot](project_2_screenshot_url)
+![Project32 Screenshot](project_1_screenshot_url)
 
-**[Project 3 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**[Project 3 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
 ## Get in Touch 
 
