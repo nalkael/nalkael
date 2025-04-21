@@ -41,7 +41,7 @@ I'm passionate **Software Developer** with experience in **Java, Python, C/C++, 
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
-### [CampusLink Platform](https://campuslink.com.cn/)
+### [CampusLink Social Network Platform](https://campuslink.com.cn/)
 
 ![Project 3 Screenshot](project_2_screenshot_url)
 
