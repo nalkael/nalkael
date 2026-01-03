@@ -1,7 +1,7 @@
 ## About Me 
-My name is Yumi Hoshi, came from Japan's Okinawa and residing in Germany now.
+My name is Yumi Hoshi.
 
-I'm passionate **Software Developer** with experience in **Java, Python, C/C++, Javascript**. I like to learn new skills as well as dip into new areas.
+I'm **Software Developer** with experience in **Java, Python, C/C++, Javascript**. I like to learn new skills as well as dip into new areas.
 
 - Currently learning: **[new technologies or skills you're currently learning]**
 - Working on: **[current projects or side-projects]**
